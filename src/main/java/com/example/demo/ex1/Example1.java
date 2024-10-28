@@ -1,7 +1,7 @@
 package com.example.demo.ex1;
 
 public class Example1 {
-    public int a = 10;
+    int b = 20;
 
-    public int b = 20;
+    int a = 10;
 }
